@@ -1,4 +1,4 @@
-# 🚀 NeetCode 150 Solutions — Abhishek Chauhan
+# NeetCode 150 Solutions — Abhishek Chauhan
 
 <p align="center">
   <img src="https://img.shields.io/badge/Problems%20Solved-150%2F150-brightgreen?style=for-the-badge" />
