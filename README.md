@@ -1,4 +1,4 @@
-# NeetCode 150 Solutions — Abhishek Chauhan
+# NeetCode 250 Solutions — Abhishek Chauhan
 
 <p align="center">
   <img src="https://img.shields.io/badge/Problems%20Solved-150%2F150-brightgreen?style=for-the-badge" />
@@ -25,7 +25,7 @@ The focus throughout this journey was to:
 
 ## 🏆 Highlights
 
-* ✅ Completed all **150 problems**
+* ✅ Completed all **250 problems**
 * ✅ Covered key topics: Arrays, Trees, Graphs, Dynamic Programming, and more
 * ✅ Focused on **pattern recognition over memorization**
 * ✅ Maintained consistency alongside full-time software engineering work
